@@ -1,6 +1,6 @@
 function createParagraph() {
   const para = document.createElement('p');
-  para.textContent = 'ぴぃ！ぴーぃっ！びかぢゅゅうー！ぴかぁ！ぴがぴか！ぴかぴかっ！ぴかちゅう！';
+  para.textContent = '🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬';
   document.body.appendChild(para);
 }
 

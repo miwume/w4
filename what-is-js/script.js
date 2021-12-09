@@ -1,6 +1,6 @@
 function createParagraph() {
   const para = document.createElement('p');
-  para.textContent = 'お疲れさまです！ゆっくり休んでください！';
+  para.textContent = 'げんきなときは　げんきでいて〜　つかれたときは　ゆっくりいて〜';
   document.body.appendChild(para);
 }
 

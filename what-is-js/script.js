@@ -1,6 +1,6 @@
 function createParagraph() {
   const para = document.createElement('p');
-  para.textContent = '🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬🍬';
+  para.textContent = 'お疲れさまです！ゆっくり休んでください！';
   document.body.appendChild(para);
 }
 
